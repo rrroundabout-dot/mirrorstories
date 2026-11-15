@@ -1,0 +1,6 @@
+{
+  "name": "Hall of Oceanic Mirrors",
+  "description": "A 3D first-person gallery of mirrors where finding each mirror awakens a procedural face generator that snapshots your reflection and tells a unique, awkwardly British deep-ocean story about whales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
